@@ -7,7 +7,7 @@ The project focuses on transforming raw transaction data into actionable insight
 ## Tasks(KPIs):
 Familiarize the team with the project objectives and expectations.
 Acquire and load the Transaction dataset.
-## Begin Exploratory Data Analysis (EDA):
+Begin Exploratory Data Analysis (EDA):
 Identify key statistics (mean, median, mode, etc.).
 Visualize data distributions and patterns.
 Detect any outliers or missing values.
@@ -45,3 +45,34 @@ Conduct a review of the entire project with the team.
 Address any feedback or suggestions for improvement.
 Make necessary iterations to enhance the project's quality.
 <a href="https://github.com/smanthe58-glitch/Purchase-Pattern-Analysis/blob/main/Dashboard.png">Purchase Pattern Analysis Dashboard</a>
+## Jupiter Notebook
+<a href="https://github.com/smanthe58-glitch/Purchase-Pattern-Analysis/blob/main/Dataset%20of%20transaction.ipynb">Purchase Pattern Analysis Notebook</a>
+## Market Basket Analysis – Short Process
+ Kick-off & EDA
+Understand project objectives and dataset 
+Perform Exploratory Data Analysis (EDA) 
+Analyze statistics, visualize patterns 
+Identify missing values and outliers 
+Data Cleaning & Transformation
+Handle missing values and inconsistencies 
+Remove outliers and duplicates 
+Convert data into transaction format 
+Document preprocessing steps 
+ Visualization & Apriori
+Create product and trend visualizations 
+Apply Apriori algorithm 
+Generate frequent item sets and association rules 
+Visualize product relationships 
+Insights & Finalization
+Interpret results and key patterns 
+Provide business recommendations 
+Prepare presentation and documentation.
+## Key Insights 
+Customers frequently purchase certain products together, revealing strong product associations. 
+A small group of items contributes to most transactions (high-frequency products). 
+Association rules (high confidence & lift) highlight cross-selling opportunities. 
+Some products act as “trigger items” that lead to additional purchases. 
+Seasonal or category-based buying patterns are visible in the data. 
+Data cleaning significantly improved the accuracy of analysis results.
+
+
